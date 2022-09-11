@@ -1,1 +1,1 @@
-This repository contains the HTML+CSS Mewatools webpage (www.mewatools.com)
+This repository contains the HTML+CSS Mewa webpage (www.mewa.app/home)
